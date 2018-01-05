@@ -1,0 +1,15 @@
+{
+    "name": "helloworldapp",
+    "version": "0.0.1",
+    "description": "hello world",
+    "main": "./index.js",
+    "scripts": {},
+    "repository": {},
+    "author": "yungez@microsoft.com",
+    "devDependencies": {},
+    "dependencies": {
+        "express": "^4.16.2",
+        "jade": "^1.11.0",
+        "path": "^0.12.7"
+    }
+}
